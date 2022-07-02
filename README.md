@@ -1,11 +1,8 @@
 # borrowzz
 
-
-## 1. About
-
 borrowzz is a dapp for lending stable coin pegged to USD tokens to users while holding the ETH as collateral.
 
-## 2. Running
+## Getting Started
 
 Truffle and Ganache can be installed by running:
 
