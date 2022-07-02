@@ -1,18 +1,7 @@
-# Ethereum Vault
+## borrowzz
 
-- [Ethereum Vault](#ethereum-vault)
-  - [1. About](#1-about)
-  - [2. Project description](#2-project-description)
-  - [3. Smart contracts](#3-smart-contracts)
-  - [4. Install](#4-install)
-  - [5. Running tests](#5-running-tests)
-    - [Testing in Ganache](#testing-in-ganache)
-    - [Testing in Kovan](#testing-in-kovan)
-    - [Test suite output](#test-suite-output)
-  - [6. Deployed contracts in Kovan testnet](#6-deployed-contracts-in-kovan-testnet)
-  - [7. TODO](#7-todo)
 
-## 1. About
+# 1. About
 
 This repository contains the source code and dependencies required to deploy a Solidity based VAULT smart contract that securely holds ETH whilst lending STABLE TOKEN to users on Ethereum network.
 
